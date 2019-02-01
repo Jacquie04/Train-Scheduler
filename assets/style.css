@@ -1,0 +1,83 @@
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif; 
+    font-size: 80px;
+    color: #5E6261; 
+}
+
+h3 {
+    color: black; 
+    font-family: 'Poiret One', cursive; 
+    font-weight: bolder;
+    padding-right: 30px;
+}
+
+h4 {
+    font-weight: bolder;
+    color: #5E6261;
+    font-family: 'Poiret One', cursive;  
+}
+
+h5 {
+    font-family: 'Open Sans Condensed', sans-serif;;
+}
+
+h6 {
+    color: #797D7D;
+    font-family: 'Cuprum', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+table th {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.jumbotron {
+    background: hsl(180, 5%, 87%);
+}
+
+.form-control {
+    font-family: 'Cuprum', sans-serif;
+    padding: 10px;
+}
+
+.form-group {
+    border: solid;
+    border-width: 0.5px;
+    padding: 15px;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.panel {
+    background: hsl(180, 5%, 87%);
+    padding: 10px;
+}
+
+#header {
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    border-width: 0.5px;
+    padding: 10px;
+}
+
+.table {
+    background-color: whitesmoke;
+    font-family: 'Cuprum', sans-serif;
+    padding: 10px;
+}
+
+table {
+    text-align: center;
+    border-right: solid;
+    border-bottom: solid;
+    border-left: solid;
+    border-width: 1.5px;
+    padding: 10px;
+}
+
+
